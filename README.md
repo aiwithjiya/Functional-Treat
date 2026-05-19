@@ -69,4 +69,5 @@
 #### • How to sort and filter data
 #### • How to analyze datasets using Python
 ## 👩‍💻 Developed By
-### Vidhi Darji
+### Jiya Patel
+
